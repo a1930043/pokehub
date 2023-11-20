@@ -669,7 +669,7 @@
         "weaknesses": ["Steel", "Poison"],
         "prev_evolution": [{"num": "039", "name": "Jigglypuff"}],
         "next_evolution": null
-      }
+      },
       {
         "id": 22,
         "num": "022",
@@ -868,7 +868,7 @@
         "weaknesses": ["Water", "Grass", "Ice"],
         "prev_evolution": [{"num": "050", "name": "Diglett"}],
         "next_evolution": null
-      }
+      },
       {
         "id": 33,
         "num": "033",
@@ -976,7 +976,7 @@
         "weaknesses": ["Flying", "Psychic", "Fairy"],
         "prev_evolution": [{"num": "056", "name": "Mankey"}],
         "next_evolution": null
-      }
+      },
       {
         "id": 39,
         "num": "039",
@@ -1177,5 +1177,5 @@
         "weaknesses": ["Flying", "Psychic", "Fairy"],
         "prev_evolution": [{"num": "066", "name": "Machop"}, {"num": "067", "name": "Machoke"}],
         "next_evolution": null
-      }
+      }]
   }
